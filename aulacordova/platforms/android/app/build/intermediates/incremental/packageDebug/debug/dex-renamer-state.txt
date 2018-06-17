@@ -1,0 +1,4 @@
+#Sun Jun 17 07:28:19 BRT 2018
+base.0=C\:\\Users\\convidado2\\Documents\\Tiago\\etec\\3semestre\\atividades\\aulacordova\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+file.0=C\:\\Users\\convidado2\\Documents\\Tiago\\etec\\3semestre\\atividades\\aulacordova\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex
